@@ -33,8 +33,6 @@ Designed for students, financial analysts and anyone exploring different credit 
 
 ## 🖼️ Gallery
 
-Visual previews of key interfaces. Images should be placed in the `images/` folder of the repository.
-
 <table>
   <tr>
     <td align="center">
